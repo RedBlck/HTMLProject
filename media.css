@@ -1,0 +1,120 @@
+@media screen and (max-width: 320px) {
+    .col-9 {
+        flex: 0 0 auto;
+        width: 91.66666667%;
+    }
+    .font1416 {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .header_top_nav {
+        display: none;
+    }
+    .info_information, .info_cooperation {
+        display: none;
+    }
+    .info_sity>img {
+        display: none;
+    }
+    .esche {
+        display: block;
+        margin-left: -25px;
+    }
+    .info_sity {
+    }
+    .header_center_timemap {
+        display: none;
+    }
+    .catalog_button {
+        width: 34px;
+        height: 34px;
+        background: #005BB9;
+        border-radius: 4px;
+    }
+    .header_center__logo {
+        width: 135px;
+        height: 47px;
+    }
+    .header_center_contacts {
+        flex-direction: column;
+
+    }
+    .sourch_button {
+        width: 34px;
+        height: 34px;
+    }
+    #sourch {
+        width: 203px;
+        height: 34px;
+        margin-left: 20px;
+    }
+    .login {
+        display: none;
+    }
+    .navbar {
+        flex-wrap: nowrap;
+    }
+    .whatsapp {
+        display: none;
+    }
+    .tel h2 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .tel p {
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .logo_img>img {
+        width: 100%;
+    }
+    .afisha {
+        flex-direction: column;
+    }
+    .col-3 {
+        flex: 0 0 auto;
+        width: 30.66666667%;
+    }
+    .sales {
+        flex-direction: row;
+        column-gap: 10px;
+    }
+    .sale_top, .sale_bot {
+        width: 210px;
+        height: 145px;
+        margin-top: 10px;
+    }
+    .sale_button {
+        width: 32px;
+        height: 32px;
+    }
+    .top_content>h3, .bot_content>h3 {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 18px;
+        color: #0A1A2C;
+    }
+    .model {
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .sale_top_content>img, .sale_bot_content>img {
+        padding-right: 5px;
+        width: 58px;
+        height: 54px;
+    }
+    .price {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .last_price {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .afisha_carousel {
+        display: none;
+    }
+}
